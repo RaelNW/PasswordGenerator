@@ -8,3 +8,6 @@ Here is the desired steps
 3. Ask them if they want an uppercase, lowercase,, numbers and special characters
 4. Ask them how many characters they want their password to contain.
 5. Password is generated using the data obtained from step 4
+
+Here is the deployed link https://raelnw.github.io/PasswordGenerator/
+![Alt text](<Screenshot 2023-07-05 at 4.33.56 PM.png>)
